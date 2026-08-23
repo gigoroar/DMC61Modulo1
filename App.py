@@ -1,4 +1,4 @@
 import streamlit as st
 st.title("Especialización Python for Analytics")
 st.sidebar.title("Parámetros")
-Elaborado por: Giovani Rosas
+st.write("Elaborado por: Giovani Rosas")
