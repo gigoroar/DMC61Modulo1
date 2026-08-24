@@ -2,7 +2,7 @@ import streamlit as st
 st.title("Especialización Python for Analytics")
 st.sidebar.title("Parámetros")
 st.write("Elaborado por: Giovani Rosas")
----
+
 modulos = st.sidebar.selectbox ("Seleccione un Modulo",["Modulo Listas", "Modulo Arreglos", "Módulo Funciones"])
 if modulos == "Modulo Listas": 
   st.write("Bienvenido al Módulo Listas")
