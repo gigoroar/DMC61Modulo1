@@ -11,6 +11,6 @@ if modulos == "Modulo Listas":
   st.write("Bienvenido al Módulo Listas")
 elif modulos == "Modulo Arreglos": 
   st.write("Bienvenido al Módulo Arreglos")
-elif modulos == "Modulo Funciones": 
+elif modulos == "Módulo Funciones": 
   st.write("Bienvenido al Módulo Funciones")  
            
